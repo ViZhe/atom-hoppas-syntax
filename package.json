@@ -1,7 +1,7 @@
 {
   "name": "atom-hoppas-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Syntax for Hoppas UI",
   "repository": "https://github.com/atom/atom-hoppas-syntax",
   "license": "MIT",
