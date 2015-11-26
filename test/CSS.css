@@ -1,0 +1,28 @@
+
+/*Test comment*/
+@media only screen and (max-device-width: 480px){
+    a.button {
+        border-radius 5px
+    }
+}
+[hidden],
+[hidden],
+*,
+input[disabled]
+input[type="radio"]
+button::-moz-focus-inner,
+svg:not(:root),
+audio:not([controls]),
+a:hover,
+a::before,
+header,
+.block,
+#block {
+    font: 12px Helvetica, Arial;
+    background: src('./asdasd.png');
+    box-sizing: border-box;
+    font-weight: 300;
+    margin: 50px 10px;
+    content: 'content';
+    content: "content";
+}

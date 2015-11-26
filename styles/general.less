@@ -1,0 +1,55 @@
+
+atom-text-editor::shadow,
+:host {
+    background-color: #14171a;
+    color: @generalText;
+
+    .comment {
+        color: @gray;
+    }
+    .invisible-character {
+        color: rgba(197, 200, 198, .2);
+    }
+
+    .indent-guide {
+        color: rgba(197, 200, 198, .2);
+    }
+
+    .wrap-guide {
+        background-color: rgba(197, 200, 198, .1);
+    }
+
+    .gutter {
+        background-color: darken(#14171a, 5%);
+    }
+    .gutter .cursor-line {
+        background-color: rgba(255, 255, 255, 0.1);
+    }
+    .line-number.cursor-line-no-selection {
+        background-color: rgba(255, 255, 255, 0.2);
+    }
+
+    .gutter .line-number.folded,
+    .gutter .line-number:after,
+    .fold-marker:after {
+        color: @green;
+        font-weight: 700;
+    }
+
+    .invisible {
+        color: #c5c8c6;
+    }
+
+    .cursor {
+        border-color: #fff;
+    }
+
+    .selection .region {
+        background-color: rgba(255, 255, 255, 0.1);
+    }
+    .bracket-matcher .region {
+        border-bottom: 1px solid @yellowlight;
+        margin-top: -1px;
+        opacity: .7;
+    }
+}

@@ -1,0 +1,23 @@
+
+.jade {
+    .text {
+        color: @generalText;
+    }
+    .name.tag {
+        color: @yellow;
+    }
+    .interpolated {
+        color: @purple;
+    }
+    .flow {
+        color: @purple;
+    }
+    .import.include {
+        &.storage {
+            color: @purple;
+        }
+        &.variable {
+            color: @green;
+        }
+    }
+}

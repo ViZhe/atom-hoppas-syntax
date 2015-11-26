@@ -1,0 +1,65 @@
+
+.stylus {
+    .variable {
+        color: @purple;
+    }
+    .function {
+        color: @purple;
+    }
+    .keyword {
+        color: @blue;
+
+        &.unit {
+            color: @green;
+        }
+        &.operator {
+            color: @orange;
+        }
+    }
+    .string {
+        color: @green;
+    }
+    .tag {
+        color: @green;
+    }
+    .attribute-name {
+        color: @yellow;
+
+        &.class {
+            color: @yellow;
+        }
+        &.pseudo-class {
+            color: @yellowlight;
+        }
+        &.pseudo-element {
+            color: @yellowlight;
+        }
+    }
+    .property-name {
+        color: @red;
+    }
+    .constant {
+        &.numeric {
+            color: @blue;
+        }
+        &.property-value {
+            color: @blue;
+        }
+        &.color {
+            color: @blue;
+        }
+        &.font-name {
+            color: @green;
+        }
+    }
+    .puncutation {
+        &.definition {
+            color: @orange;
+        }
+    }
+    .punctuation {
+        &.delimiter {
+            color: @orange;
+        }
+    }
+}
