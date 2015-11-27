@@ -1,6 +1,6 @@
 # Atom Dark Syntax theme
 
-![Here is a screen shot](https://raw.githubusercontent.com/vizhe/atom-hoppas-syntax/master/screenshot.png)
+![](https://raw.githubusercontent.com/hoppas/atom-hoppas-syntax/master/screenshot.jpg)
 
 
 ## Base colors
