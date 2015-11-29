@@ -3,7 +3,15 @@
   "theme": "syntax",
   "version": "0.0.2",
   "description": "Atom Dark Syntax theme",
-  "repository": "https://github.com/atom/atom-hoppas-syntax",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoppas/atom-hoppas-syntax.git"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/hoppas/atom-hoppas-syntax/issues"
+  },
+  "homepage": "https://github.com/hoppas/atom-hoppas-syntax",  
   "license": "MIT",
   "engines": {
     "atom": "^1.0.0"
