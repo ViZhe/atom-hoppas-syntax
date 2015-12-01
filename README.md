@@ -15,13 +15,13 @@
 
 
 ## Fine tuning
-- [x] Stylus
+- [X] CSS
 - [x] Jade
 - [x] JSON
+- [x] Stylus
 - [ ] Coffee
-- [ ] CSS
-- [ ] HTML
 - [ ] JavaScript
+- [ ] HTML
 
 # Donate
 Support the development of the project:
