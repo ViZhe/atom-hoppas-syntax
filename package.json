@@ -1,7 +1,7 @@
 {
   "name": "atom-hoppas-syntax",
   "theme": "syntax",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Atom Dark Syntax theme",
   "repository": {
     "type": "git",
