@@ -17,6 +17,7 @@
 ## Fine tuning
 - [x] Stylus
 - [x] Jade
+- [x] JSON
 - [ ] Coffee
 - [ ] CSS
 - [ ] HTML
